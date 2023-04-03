@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rogério Nascimento 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascrip,html,Css e Pyth
+- 🌱 Estudando Javascrip,html e Css
 - 👯 Contate-me pelo email: rogerionascimentoluz@gmail.com
 <div align="center">
   <a href="https://github.com/rogerionascimentoluz">
