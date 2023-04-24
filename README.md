@@ -1,7 +1,3 @@
-## Olá! Eu sou o Rogério Nascimento 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando Javascrip,html e Css
-- 👯 Contate-me pelo email: rogerionascimentoluz@gmail.com
 ## Olá eu sou o Rogerio Nascimento 
 <div align="center">
   <a href="https://github.com/rafaballerini">
